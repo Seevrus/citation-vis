@@ -1,0 +1,10 @@
+.active-link { 
+  stroke: #69b3b2;
+  stroke-width: 4px;
+}
+
+.link { 
+  stroke: #999;
+  stroke-opacity: .6;
+  stroke-width: 1px;
+}

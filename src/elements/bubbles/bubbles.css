@@ -1,0 +1,9 @@
+.subject-title {
+  fill: white;
+  font-size: 14px;
+}
+
+.subject-title-highlighted {
+  font-weight: 600;
+  font-size: 18px;
+}

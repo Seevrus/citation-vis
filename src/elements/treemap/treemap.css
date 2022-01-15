@@ -1,0 +1,11 @@
+div.tooltip-treemap {
+  position: absolute;
+  text-align: left;
+  padding: .2rem;
+  background: #FFFFFF;
+  color: #313639;
+  border: 1px solid #313639;
+  border-radius: 8px;
+  pointer-events: none;
+  font-size: 0.7rem;
+}
